@@ -8,7 +8,7 @@ It's open source, cheap and easy to install.
 
 Join Discord Server to get support and discuss new features:
 
-[![](https://dcbadge.vercel.app/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
+[![](https://dcbadge.limes.pink/api/server/fEhyWRPCmb)](https://click.webhdx.dev/discord)
 
 ## Features
 * open source
